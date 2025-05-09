@@ -10,7 +10,7 @@ Para realizar la práctica se utilizarán 3 máquinas virtuales instaladas todas
 ## Instalación y configuración
 Instalaremos los SO de manera normal siguiendo los pasos que nos indiquen las propias instalaciones y una vez finalizadas, desde hyper-V les añadiremos un segundo adaptador de red, configurado para conexión interna.
 
-![brr](/imagenes/Jitsi/Switch.png)
+![brr](/imagenes/Switch.png)
 * ### Ubuntu Server 22.04
 Para comenzar modificamos el archivo de configuración de red para tener conexión: /etc/netplan/01-netcfg.yaml
 
